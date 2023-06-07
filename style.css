@@ -11,7 +11,7 @@ img {
 
 .child {
     position: absolute;
-    padding: 5;
+    padding: 5px;
 }
 
 #child1 {
